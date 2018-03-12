@@ -33,7 +33,7 @@ the settings to my preference.
 The first thing I changed was the server details. Below is what I
 followed to do this.
 
-<img src="media/image1.png" width="624" height="215" />
+![image of code](https://github.com/Crameniaminea/IRCDoc/blob/master/server.PNG)
 
 The following is what I changed in the configuration file.
 
@@ -47,7 +47,7 @@ description is to tell a user what the server is about.
 The next thing I changed was the admin details. I followed the following
 to do this.
 
-<img src="media/image2.png" width="624" height="164" />
+![image of code](https://github.com/Crameniaminea/IRCDoc/blob/master/Admin.PNG)
 
 Here is what I entered into the configuration line.
 
@@ -62,7 +62,7 @@ The last thing I changed was the server address, which is where the
 server would be located. Below is what I followed in order to make this
 change.
 
-<img src="media/image3.png" width="624" height="157" />
+![image of code](https://github.com/Crameniaminea/IRCDoc/blob/master/address.PNG)
 
 The following is what I changed the address with.
 
